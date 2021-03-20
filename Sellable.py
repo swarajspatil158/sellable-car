@@ -26,7 +26,7 @@ def main():
     # st.title("Car Price Prediction")
     html_temp = """
     <div style="background-color:tomato;padding:10px">
-    <h1 style="color:white;text-align:center;">Konw price of your car </h1>
+    <h1 style="color:white;text-align:center;">Know price of your car </h1>
     </div>
     """
     image = Image.open('Streamlit Web App.jpg')
