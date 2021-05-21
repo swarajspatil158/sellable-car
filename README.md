@@ -16,3 +16,14 @@ Therefore, we decided to make Car Price Prediction app to meet the following obj
 - To predict the selling price of an old car on the basis of car data from websites.
 - To save lot of time required for checking and verifying worth of car
 - To provide clean, beautiful, easy and interactive web app for better user experience
+
+## User Interface
+![alt text](https://github.com/swarajspatil158/sellable-car/blob/main/UI-1.png?raw=true)
+![alt text](https://github.com/swarajspatil158/sellable-car/blob/main/UI-2.png?raw=true)
+![alt text](https://github.com/swarajspatil158/sellable-car/blob/main/UI-3.png?raw=true)
+
+## Constraints
+- Price prediction Limitation 3Lakhs>Input_Price<25Lakhs
+## Non functional requirements
+- Technology used Backend: Python Library Streamlit, Numpy Pandas,matplotlib, Jupyter
+- Technology Used Frontend: Streamlit
