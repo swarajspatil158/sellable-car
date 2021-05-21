@@ -1,4 +1,4 @@
-![alt text](https://github.com/swarajspatil158/sellable-car/blob/main/Sellable-App.png?raw=true)
+![screenshot](https://github.com/swarajspatil158/sellable-car/blob/main/Sellable-App.png?)
 # SELLABLE
 ## Car Price Prediction Web App
 ## Problem Statement
@@ -18,9 +18,9 @@ Therefore, we decided to make Car Price Prediction app to meet the following obj
 - To provide clean, beautiful, easy and interactive web app for better user experience
 
 ## User Interface
-![alt text](https://github.com/swarajspatil158/sellable-car/blob/main/UI-1.png?raw=true)
-![alt text](https://github.com/swarajspatil158/sellable-car/blob/main/UI-2.png?raw=true)
-![alt text](https://github.com/swarajspatil158/sellable-car/blob/main/UI-3.png?raw=true)
+![screenshot](https://github.com/swarajspatil158/sellable-car/blob/main/UI-1.png?raw=true)
+![screenshot](https://github.com/swarajspatil158/sellable-car/blob/main/UI-2.png?raw=true)
+![screenshot](https://github.com/swarajspatil158/sellable-car/blob/main/UI-3.png?raw=true)
 
 ## Constraints
 - Price prediction Limitation 3Lakhs>Input_Price<25Lakhs
