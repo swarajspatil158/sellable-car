@@ -25,5 +25,14 @@ Therefore, we decided to make Car Price Prediction app to meet the following obj
 ## Constraints
 - Price prediction Limitation 3Lakhs>Input_Price<25Lakhs
 ## Non functional requirements
-- Technology used Backend: Python Library Streamlit, Numpy Pandas,matplotlib, Jupyter
-- Technology Used Frontend: Streamlit
+- Technology used Backend: 
+    - Python Library Streamlit
+    - Numpy
+    - Pandas
+    - matplotlib
+    - Jupyter
+- Technology Used Frontend: 
+    - Streamlit
+## References
+- [Streamlit](https://streamlit.io/)
+- [Kaggle Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
