@@ -20,6 +20,7 @@ This Car Price Prediction app has aim to meet the following objectives:
     - Python Library Streamlit
     - Numpy
     - Pandas
+    - Sklearn
     - matplotlib
     - Jupyter
 - Technology Used Frontend: 
