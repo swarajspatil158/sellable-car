@@ -137,6 +137,6 @@ if nav == "Data":
 if nav == "About Us":
     st.balloons()
     st.title("Swaraj Patil")
-    st.title("Nishad Patil")
-    st.title("Rutik Patil")
+#     st.title("Nishad Patil")
+#     st.title("Rutik Patil")
     st.subheader("This is Car Price Prediction Web App")
